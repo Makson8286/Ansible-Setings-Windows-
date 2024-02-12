@@ -1,16 +1,16 @@
 # Ansible-Setings-Windows-
-Run the powershell as administrator
+Run the PowerShell as Administrator
 
-Write Set-ExecutionPolicy Unrestricted
+Write " Set-ExecutionPolicy Unrestricted "
 
-Select "Yes" or "Yes and all"
+Select " Yes " or " Yes and all "
 
-Go to the folder where you have the "ConfigureRemotingForAnsible" file and write ./ConfigureRemotingForAnsible
+Go to the folder where you have the "ConfigureRemotingForAnsible" file and write " ./ConfigureRemotingForAnsible "
 
 Select R
 
 --------------------------------------------------------------------
-ITS COMMAND IN File "hosts" FOR INSTALL PROGRAM 
+ITS COMMAND IN FILE "hosts" FOR INSTALL PROGRAM 
 
 [windows]
 
